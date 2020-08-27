@@ -7,7 +7,7 @@
 //
 
 import Photos
-
+import UIKit
 let DKImageGroupCellIdentifier = "DKImageGroupCellIdentifier"
 
 class DKAssetGroupCell: UITableViewCell {

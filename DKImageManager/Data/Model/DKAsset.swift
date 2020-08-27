@@ -7,7 +7,7 @@
 //
 
 import Photos
-
+import UIKit
 public extension CGSize {
 	
 	public func toPixel() -> CGSize {
